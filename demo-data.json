@@ -1,0 +1,68 @@
+{
+  "az1": {
+    "dc1": {
+      "env1": [
+        "service1",
+        "service2"
+      ],
+      "env2": [
+        "service1",
+        "service2"
+      ]
+    },
+    "dc2": {
+      "env1": [
+        "service1",
+        "service2"
+      ],
+      "env2": [
+        "service1",
+        "service2"
+      ]
+    }
+  },
+  "az2": {
+    "dc1": {
+      "env1": [
+        "service1",
+        "service2"
+      ],
+      "env2": [
+        "service1",
+        "service2"
+      ]
+    },
+    "dc2": {
+      "env1": [
+        "service1",
+        "service2"
+      ],
+      "env2": [
+        "service1",
+        "service2"
+      ]
+    }
+  },
+  "az3": {
+    "dc1": {
+      "env1": [
+        "service1",
+        "service2"
+      ],
+      "env2": [
+        "service1",
+        "service2"
+      ]
+    },
+    "dc2": {
+      "env1": [
+        "service1",
+        "service2"
+      ],
+      "env2": [
+        "service1",
+        "service2"
+      ]
+    }
+  }
+}
